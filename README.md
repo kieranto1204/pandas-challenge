@@ -1,3 +1,7 @@
+To get this running correctly, make sure to use gitbash to clone this repository to your local file using: git clone https://github.com/kieranto1204/pandas-challenge.git
+After doing that you will want to launch your jupyter notebook and then open up the PyCitySchools_starter.ipynb file.
+Then set your kernel to an existing jupyter server and use the one that started running when you openned your jupyter notebook, this should allow the code to run properly.
+
 In this challenge we were tasked with created a variety of summaries for the passing rate of reading and math in a variety of schools, both district and charters.
 We were tasked with creating a District Summary that contained the:
 - Total number of unique schools
